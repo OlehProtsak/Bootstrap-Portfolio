@@ -16,3 +16,13 @@
     padding-left: 0;
  }
 
+.card-work {
+    flex-direction: row;
+    border-bottom: 1px solid darkgray;
+}
+
+.img-work {
+    width: 65%;
+    height: 300px;
+}
+
