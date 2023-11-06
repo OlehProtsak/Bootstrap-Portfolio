@@ -1,0 +1,18 @@
+.flex-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50vh;
+    background: darkgray;
+ }
+
+ .img-circle {
+    width: 120px;
+    height: 120px;
+
+ }
+
+ .card-body {
+    padding-left: 0;
+ }
+
