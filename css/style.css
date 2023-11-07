@@ -19,6 +19,7 @@
 .card-work {
     flex-direction: row;
     border-bottom: 1px solid darkgray;
+    border-radius: 0;
 }
 
 .img-work {
