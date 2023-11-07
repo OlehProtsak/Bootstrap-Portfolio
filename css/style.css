@@ -1,3 +1,4 @@
+/* styles for flex container */
 .flex-container {
     display: flex;
     justify-content: center;
@@ -6,27 +7,32 @@
     background: darkgray;
  }
 
+ /* styles to create circle images in my skills section */
  .img-circle {
     width: 120px;
     height: 120px;
 
  }
 
+ /* discard pading for cards */
  .card-body {
     padding-left: 0;
  }
 
+ /* styles for unique border */
 .work-section {
     flex-direction: row;
     border-bottom: 1px solid darkgray;
     border-radius: 0;
 }
 
+/* styles for images in work section */
 .img-work {
     width: 65%;
     height: 300px;
 }
 
+/* styles for about section */
 .about-me {
     background: darkgray;
 }
@@ -42,6 +48,7 @@
     justify-content: center;
 }
 
+/* media query for about me section */
 @media only screen and (min-width: 992px) {
     .about-me {
         background: darkgray;
@@ -50,6 +57,7 @@
     }
 }
 
+/* styles for icons section */
 .icons {
     background: lightgray;
     height: 80px;
