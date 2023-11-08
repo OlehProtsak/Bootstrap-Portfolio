@@ -57,6 +57,14 @@
     }
 }
 
+/* media query for responsive about section image */
+@media only screen and (max-width: 992px) {
+    .img-about {
+        width: 300px;
+        height: 300px;
+    }
+}
+
 /* styles for icons section */
 .icons {
     background: lightgray;
