@@ -30,6 +30,7 @@
 .img-work {
     width: 65%;
     height: 300px;
+    object-fit: cover;
 }
 
 /* styles for about section */
